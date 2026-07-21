@@ -1,0 +1,50 @@
+[
+  {
+    "ParameterKey": "AdminUserEmail",
+    "ParameterValue": "your-email@example.com"
+  },
+  {
+    "ParameterKey": "CognitoDomainPrefix",
+    "ParameterValue": ""
+  },
+  {
+    "ParameterKey": "CreateNewVpc",
+    "ParameterValue": "Yes"
+  },
+  {
+    "ParameterKey": "DeployUI",
+    "ParameterValue": "Yes"
+  },
+  {
+    "ParameterKey": "ExistingCognitoUserPoolClient",
+    "ParameterValue": ""
+  },
+  {
+    "ParameterKey": "ExistingCognitoUserPoolId",
+    "ParameterValue": ""
+  },
+  {
+    "ParameterKey": "ExistingPrivateSubnetIds",
+    "ParameterValue": ""
+  },
+  {
+    "ParameterKey": "ExistingSecurityGroupIds",
+    "ParameterValue": ""
+  },
+  {
+    "ParameterKey": "ExistingVpcId",
+    "ParameterValue": ""
+  },
+  {
+    "ParameterKey": "IPAMPoolId",
+    "ParameterValue": ""
+  },
+  {
+    "ParameterKey": "VpcAzs",
+    "ParameterValue": ""
+  },
+  {
+    "ParameterKey": "VpcEnabled",
+    "ParameterValue": "Yes"
+  }
+]
