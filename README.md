@@ -26,7 +26,7 @@ In today's rapidly evolving digital landscape, enterprises demand agile, secure,
 
 The **AI-Apps-Generator** solution is meticulously engineered using AWS CloudFormation to orchestrate a comprehensive suite of AWS services, creating a resilient and scalable environment for Generative AI applications. The diagram below illustrates the high-level architecture:
 
-![Project Architecture Diagram](https://files.manuscdn.com/user_upload_by_module/session_file/310519663845315632/tbxwqLZXekzvzYTr.png)
+![Project Architecture Diagram](./projectarchitecture.png)
 
 ### Key Components & Flow:
 
